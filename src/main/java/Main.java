@@ -34,23 +34,23 @@ public class Main {
         List<Book> books = new ArrayList<>();
 
         Book book1 = new Book();
-        book1.setTitle("Волхв");
+        book1.setTitle("Война и мир");
         book1.getYear();
         book1.setGenre(Genre.FICTION);
         book1.setAutor(author1);
         books.add(book1);
         Book book2 = new Book();
-        book2.setTitle("Любовница французского лейтенанта");
+        book2.setTitle("Кайдашева сем'я");
         book2.setGenre(Genre.FICTION);
         book2.setAutor(author2);
         books.add(book2);
         Book book3 = new Book();
-        book3.setTitle("Лабиринт отражений");
+        book3.setTitle("Человек");
         book3.setGenre(Genre.SF);
         book3.setAutor(author3);
         books.add(book3);
         Book book4 = new Book();
-        book4.setTitle("Осенние визиты");
+        book4.setTitle(" Azino777");
         book4.setGenre(Genre.SF);
         book4.setAutor(author4);
         books.add(book4);
